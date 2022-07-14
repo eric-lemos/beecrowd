@@ -1,0 +1,5 @@
+n = int(input())
+hours = int(n/(60*60))
+minutes = int((n - (hours * (60*60)))/60)
+seconds = int((n -(hours * (60*60)) -(minutes * 60) ))
+print(f'{hours}:{minutes}:{seconds}')
