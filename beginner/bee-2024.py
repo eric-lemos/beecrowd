@@ -5,13 +5,13 @@ for item in breaks:
     if(n < 0 or n > 100):
         print('Fora de intervalo')
         break
-        
-    if(n > item[0] and n <= item[1]):
    
-        if(breaks.index(item) == 0):
+    elif(breaks.index(item) == 0):
+        if(n >= item[0] and n <= item[1]):
             print('Intervalo [0,25]')
             break
-        
+    
+    elif(n > item[0] and n <= item[1]):
         if(breaks.index(item) == 1):
             print('Intervalo (25,50]')
             break
