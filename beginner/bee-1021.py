@@ -1,3 +1,4 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1021
 n = float(input())
 notes = [0] * 6
 cents = [0] * 6

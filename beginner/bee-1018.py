@@ -1,3 +1,4 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1018
 number = int(input())
 banknotes = [0] * 7
 print(number)

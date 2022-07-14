@@ -1,3 +1,4 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1013
 values = tuple(input().strip().split())
 a = int(values[0])
 b = int(values[1])

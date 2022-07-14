@@ -1,3 +1,4 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1037
 n = float(input())
 breaks = [[0, 25], [25,50], [50,75], [75,100]]
 

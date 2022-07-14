@@ -1,3 +1,4 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1009
 seller_name = input()
 fixed_salary = float(input())
 sales_amount_month = float(input())

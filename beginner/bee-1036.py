@@ -1,3 +1,4 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1036
 input_numbers = tuple(input().strip().split())
 a = float(input_numbers[0])
 b = float(input_numbers[1])

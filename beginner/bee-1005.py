@@ -1,3 +1,4 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1005
 p1 = 3.5
 p2 = 7.5
 

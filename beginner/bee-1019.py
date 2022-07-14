@@ -1,3 +1,4 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1019
 n = int(input())
 hours = int(n/(60*60))
 minutes = int((n - (hours * (60*60)))/60)

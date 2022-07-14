@@ -1,3 +1,4 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1006
 p1 = 2
 p2 = 3
 p3 = 5

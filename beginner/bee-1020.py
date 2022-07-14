@@ -1,3 +1,4 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1020
 n = int(input())
 ano = int(n/365)
 mes = int((n % 365) /30)

@@ -1,3 +1,4 @@
+# https://www.beecrowd.com.br/judge/pt/problems/view/1010
 item1 = tuple(input().strip().split())
 item2 = tuple(input().strip().split())
 
