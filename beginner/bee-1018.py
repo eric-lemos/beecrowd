@@ -30,7 +30,7 @@ while(number != 0):
 
     elif(number < 2 and number >= 1):
         banknotes[6] += 1
-        number -= 1       
+        number -= 1
 
 print(f'{banknotes[0]} nota(s) de R$ 100,00')
 print(f'{banknotes[1]} nota(s) de R$ 50,00')

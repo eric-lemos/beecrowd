@@ -1,5 +1,4 @@
 # https://www.beecrowd.com.br/judge/pt/problems/view/1011
-pi = 3.14159
-r = float(input())
-v = float( (4 * pi * (r * r * r)) / 3 )
-print(f'VOLUME = {v:.3f}')
+x = float(input())
+result = float((4 * 3.14159 * (x * x * x)) / 3)
+print(f'VOLUME = {result:.3f}')

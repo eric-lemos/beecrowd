@@ -1,9 +1,6 @@
 # https://www.beecrowd.com.br/judge/pt/problems/view/1013
-values = tuple(input().strip().split())
-a = int(values[0])
-b = int(values[1])
-c = int(values[2])
+x, y, z = list(map(int, input().strip().split()))
+higher = int(((x + y) + abs(x-y)) / 2)
 
-higher = int(((a + b) + abs(a-b)) / 2)
-if(c > higher): higher = c
+if(z > higher): higher = z
 print(f'{higher} eh o maior')

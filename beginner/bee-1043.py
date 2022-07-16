@@ -1,10 +1,11 @@
-data = list(map(float, input().strip().split()))
-a, b, c = data[:]
-data.sort()
+# https://www.beecrowd.com.br/judge/pt/problems/view/1043
+inputs = list(map(float, input().strip().split()))
+x, y, z = inputs[:]
+inputs.sort()
 
-if((data[0] + data[1]) > data[2]):
-    p = a + b + c
-    print(f'Perimetro = {p:.1f}')
+if((inputs[0] + inputs[1]) > inputs[2]):
+    result1 = x + y + z
+    print(f'Perimetro = {result1:.1f}')
 else:
-    area = ((a + b) * c) / 2
-    print(f'Area = {area:.1f}')
+    result2 = ((x + y) * z) / 2
+    print(f'Area = {result2:.1f}')

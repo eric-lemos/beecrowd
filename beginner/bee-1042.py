@@ -1,12 +1,12 @@
 # https://www.beecrowd.com.br/judge/pt/problems/view/1042
-numbers = list(map(int, input().strip().split()))
-x, y, z = numbers
-numbers.sort()
+inputs = list(map(int, input().strip().split()))
+x, y, z = inputs
+inputs.sort()
 
-print(f'{numbers[0]}\n{numbers[1]}\n{numbers[2]}')
+print(f'{inputs[0]}\n{inputs[1]}\n{inputs[2]}')
 print(f'\n{x}\n{y}\n{z}')
 
-# beecrowd did not accept manual solution
+# beecrowd did not accept manual solution with insertion sort
 # for i in range(1, len(numbers)):
 #     item = numbers[i]
 #     j = i - 1

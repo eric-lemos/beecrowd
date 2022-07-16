@@ -1,18 +1,18 @@
 # https://www.beecrowd.com.br/judge/pt/problems/view/1037
-n = float(input())
+x = float(input())
 breaks = [[0, 25], [25,50], [50,75], [75,100]]
 
 for item in breaks:
-    if(n < 0 or n > 100):
+    if(x < 0 or x > 100):
         print('Fora de intervalo')
         break
    
     elif(breaks.index(item) == 0):
-        if(n >= item[0] and n <= item[1]):
+        if(x >= item[0] and x <= item[1]):
             print('Intervalo [0,25]')
             break
     
-    elif(n > item[0] and n <= item[1]):
+    elif(x > item[0] and x <= item[1]):
         if(breaks.index(item) == 1):
             print('Intervalo (25,50]')
             break
