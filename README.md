@@ -1,6 +1,6 @@
 # beecrowd
 <div>
-  <img align="right" src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png">
+  <img align="left" src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png">
   </p>
     Digital platform that connects technology students and professionals to the world's most innovative corporations through a global and easy-to-use platform 
     (<a href="https://www.beecrowd.com.br/judge/en/login">click here</a> to visit the platform).
