@@ -1,4 +1,3 @@
-# beecrowd
 <div>
   <img align="left" src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png">
   </p>
