@@ -1,5 +1,5 @@
 <div>
-  <div style="position: relative; top: -5px;">
+  <div>
     <a href="https://www.beecrowd.com.br/judge/en/login">
       <img align="left" src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png">
     </a>
