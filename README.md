@@ -1,7 +1,7 @@
 <div>
   <div>
     <a href="https://www.beecrowd.com.br/judge/en/login">
-      <img align="left" src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png">
+      <img style="position:relative;top:-5px;" align="left" src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png">
     </a>
   </div>
   <div>
