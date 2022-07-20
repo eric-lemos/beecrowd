@@ -1,8 +1,6 @@
 # https://www.beecrowd.com.br/judge/pt/problems/view/1096
 
-i = 1
-j = 7
-
+i, j = 1, 7
 while(i <= 9):
     threshold = j - 3
     while(j != threshold):
