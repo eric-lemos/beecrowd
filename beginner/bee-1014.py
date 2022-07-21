@@ -1,6 +1,6 @@
 # https://www.beecrowd.com.br/judge/pt/problems/view/1014
 
-class Bee_1008:
+class Bee_1014:
     def init(self):
         self.distance = 0
         self.gasoline = 0
@@ -18,5 +18,5 @@ class Bee_1008:
         self.average()
 
 if(__name__  == '__main__'):
-    bee = Bee_1008()
+    bee = Bee_1014()
     bee.result()
