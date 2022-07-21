@@ -51,5 +51,5 @@ class Bee_1131:
             print('Nao houve vencedor')
 
 if(__name__ == '__main__'):
-    start = Bee_1131()
-    start.loop()
+    bee = Bee_1131()
+    bee.loop()
