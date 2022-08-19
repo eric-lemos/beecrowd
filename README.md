@@ -8,4 +8,4 @@
     </p>Digital platform that connects technology students and professionals to the world's most innovative corporations through a global and easy-to-use platform.</p>
     <p>In this repository I will be including my solutions developed for the challenges applied by the platform to validate knowledge of programming logic.</p>
   </div>
-</div>
+</div> 
